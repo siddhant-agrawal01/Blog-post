@@ -1,7 +1,3 @@
-Here’s a detailed `README.md` file for your project:
-
----
-
 # Blog Post CRUD Application
 
 ## Overview
