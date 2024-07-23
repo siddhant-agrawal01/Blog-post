@@ -166,4 +166,4 @@ For deployment, follow the instructions provided by your hosting provider. This 
 
 ### Note 
 The project is build in my Linux ubuntu 24.04LTS machine if you face problem running locally try running with docker(specially windows users).
-
+Also i have hard code the env in docker file you can directly run it for testing the app (in production the env must be pass at running time of the image )
