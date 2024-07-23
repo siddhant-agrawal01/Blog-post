@@ -1,4 +1,4 @@
-# Blog Post CRUD Application
+# Blog Post CRUD Application(https://blog-post-green.vercel.app/)
 
 ## Overview
 
@@ -164,4 +164,6 @@ npm start
 
 For deployment, follow the instructions provided by your hosting provider. This project is compatible with platforms like Vercel and other cloud providers.
 
+### Note 
+The project is build in my Linux ubuntu 24.04LTS machine if you face problem running locally try running with docker(specially windows users).
 
